@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+  background: #fb5724;
+  color: #1a2842;
+  font-family: 'Russo One', sans-serif;
+}
+
+
+
+
